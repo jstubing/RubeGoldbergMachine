@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "718193753176",
+    "firebase_url": "https://rube-goldberg-machine-d403d.firebaseio.com",
+    "project_id": "rube-goldberg-machine-d403d",
+    "storage_bucket": "rube-goldberg-machine-d403d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:718193753176:android:fe818c30e10e81f5d55e2d",
+        "android_client_info": {
+          "package_name": "com.willowtree.rubegoldbergmachine"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "718193753176-q5q48884r6imjrp587fsr22p3g62h609.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1vrf_aMpMDihrBphU6S3oFYq_k4CniGQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "718193753176-q5q48884r6imjrp587fsr22p3g62h609.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
